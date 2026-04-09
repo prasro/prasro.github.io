@@ -1,0 +1,26 @@
+site_name: Rohith Kumar Prasanna Kumar
+site_url: https://rohithkumar.dev
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+
+nav:
+  - Home: index.md
+  - CV: cv.md
+  - Contact: contact.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/prasro
+      name: GitHub
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/in/rohith-kumar-prasanna-kumar
+      name: LinkedIn
