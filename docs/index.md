@@ -1,6 +1,6 @@
 # Rohith Kumar Prasanna Kumar
 
-**Senior QA Engineer | AI & Automation Expert**
+**Award-Winning Software Engineer | Cybersecurity & Network Systems Specialist | Intel Division Recognition Award Winner**
 
 📍 Gdańsk, Poland | 📞 +48 881 046 707 | ✉️ rkrohithkumar@gmail.com
 
@@ -17,45 +17,55 @@
 
 ## About Me
 
-I'm a Senior Quality Assurance Engineer with **9+ years** of experience in Python test automation, distributed systems, and AI-driven testing.
+I thrive on tackling tough engineering problems where **hardware meets software**—whether that's designing 25.6 Tbps programmable Ethernet switches at Intel or building cloud security defenses at WithSecure.
 
-Currently at **WithSecure** (cybersecurity EDR/XDR), leading QA across multiple teams and mentoring junior engineers.
-
-Previously at **Intel** (Division Recognition Award winner) and **Aptiv** (autonomous vehicles).
+**What gets me up in the morning:** Turning "impossible" challenges into clean, working solutions. At Intel, I fixed those nasty PHV bugs that snagged me their **Division Recognition Award** (their second-highest honor). Now at WithSecure, I'm crafting AI-driven scalable cloud testing frameworks that keep enterprises safe worldwide.
 
 ---
 
-## What I Do
+## My Engineering Toolkit
 
-| Area | Technologies |
+| Category | Technologies |
 | :--- | :--- |
-| **Test Automation** | Python, Robot Framework, Selenium, Pytest |
-| **Cloud & DevOps** | AWS, Azure, Docker, Jenkins, Git |
-| **Security** | EDR/XDR, Kali Linux, Metasploit |
-| **AI/ML** | Anomaly Detection, Predictive Models |
+| **🚀 Cloud & Cybersecurity** | AWS, Azure, Docker, AI-driven test frameworks |
+| **⚡ Network Systems** | ASIC/SoC, P4 switches, Tofino family (12.8–25.6 Tbps) |
+| **🔬 Test Automation** | Python, Selenium, Pytest, Robot Framework |
+| **🏎️ Autonomous Systems** | BMW MPAD & HPAD, PSA-CSLP, CAN, Vector Tools |
+| **💡 Entrepreneurship** | Co-founded Bionix Division |
+
+**Tech stack I live in:** Python | C/C++ | Linux | P4 | AWS | Azure | Docker | Selenium | LabVIEW | ASIC Design
 
 ---
 
-## Experience Highlights
+## Where I Am
 
-### WithSecure (2022 – Present)
-*Senior Software Engineer in Test*
-- QA across multiple teams and Products
-- AI based predictive models and automation
-
-### Intel (2021 – 2022)
-*ASIC Design Engineer*
-- **Intel Division Recognition Award**
-- Validated 25.6 Tbps Ethernet switches
-
-### Aptiv (2019 – 2020)
-*Test Team Lead*
-- Led testing for autonomous vehicle projects
+I call **Gdańsk, Poland** home but work remotely with my awesome Helsinki-based team at **WithSecure**, blending 9+ years across cybersecurity, networking, embedded systems, and test engineering. Always mentoring folks globally too.
 
 ---
 
-## Quick Links
+## Experience Snapshot
 
-- [View my CV](./cv.md)
+| Period | Company | Role |
+| :--- | :--- | :--- |
+| 2022 – Present | WithSecure | Senior Software Engineer in Test |
+| 2021 – 2022 | Intel | ASIC Design Engineer (Division Award) |
+| 2019 – 2020 | Aptiv | Test Team Lead |
+| 2018 – 2019 | UST Global | Associate Developer (Intel Client) |
+| 2017 | Jabil | Test Engineer |
+| 2013 – 2015 | Bionix Division | Co-Founder |
+
+**[View my complete CV →](./cv.md)**
+
+---
+
+## Let's Connect
+
+**Hit me up if you're wrestling with:**
+- 🔐 Cybersecurity headaches
+- 🌐 Network beasts
+- 🏎️ Autonomous tech puzzles
+
+**Let's solve them together!**
+
 - [Contact me](./contact.md)
-- [GitHub Projects](https://github.com/prasro)
+- [GitHub](https://github.com/prasro) | [LinkedIn](https://linkedin.com/in/rohith-kumar-prasanna-kumar)
