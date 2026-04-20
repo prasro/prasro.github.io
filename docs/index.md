@@ -4,7 +4,7 @@
   </div>
   <div>
     <h1 style="margin: 0 0 5px 0;">Rohith Kumar Prasanna Kumar</h1>
-    <p style="margin: 0; font-size: 1.1rem;"><strong>Award-Winning Software Engineer | AI & Cybersecurity Specialist | Python Guru | HackerRank Certified Python Programmer</strong></p>
+    <p style="margin: 0; font-size: 1.1rem;"><strong>Senior Software Engineer in Test | AI Automation | Cybersecurity</strong></p>
     <p style="margin: 10px 0 0 0;">📍 Gdańsk, Poland | ✉️ <a href="mailto:rohith@rohithkumar.dev">rohith@rohithkumar.dev</a></p>
   </div>
 </div>
@@ -22,11 +22,11 @@
 
 ## About Me
 
-I thrive on tough engineering problems where **hardware meets software**—from 25.6 Tbps programmable switches at Intel to AI‑driven cloud security at WithSecure.
+I've spent 9+ years working across cybersecurity, networking, embedded systems, and test engineering. These days I'm at WithSecure in Helsinki (working remotely from Gdańsk) building AI-driven test automation using Claude Agents and AWS Bedrock.
 
-**What gets me up in the morning:** Turning "impossible" into working solutions. At Intel, I fixed nasty PHV bugs and won their **Division Recognition Award** (second‑highest honor). Now I build **Claude Agents** that automate browser testing, cut API costs by 40%, and keep enterprises safe.
+Before that I was at Intel working on programmable network switches, specifically the Tofino ASIC family up to 25.6 Tbps. That's where I picked up the Intel Division Recognition Award for tracking down a particularly nasty PHV bug.
 
-Lately, I've been deep in **AI agents** – making LLMs practical and affordable for real engineering.
+Right now my main focus is making LLM-based agents actually practical in a production testing environment: keeping costs down, making outputs predictable, and not having them quietly do the wrong thing.
 
 ---
 
@@ -40,13 +40,7 @@ Lately, I've been deep in **AI agents** – making LLMs practical and affordable
 | **🔬 Test Automation** | Python, Selenium, Pytest, Robot Framework |
 | **🏎️ Autonomous Systems** | BMW MPAD & HPAD, PSA-CSLP, CAN, Vector Tools |
 
-**Tech stack I live in:** Python | Claude Agents | AWS Bedrock | Docker | Linux | P4
-
----
-
-## Where I Am
-
-📍 **Gdańsk, Poland** – working remotely with my Helsinki‑based team at **WithSecure**. Blending 9+ years across cybersecurity, networking, embedded systems, and test engineering. Always mentoring globally.
+**Day to day:** Python, Claude Agents, AWS Bedrock, Docker, Linux, P4
 
 ---
 
@@ -59,20 +53,15 @@ Lately, I've been deep in **AI agents** – making LLMs practical and affordable
 | 2019 – 2020 | Aptiv | Test Team Lead |
 | 2018 – 2019 | UST Global | Associate Developer (Intel Client) |
 | 2017 | Jabil | Test Engineer |
-| 2013 – 2015 | Bionix Division | Co‑Founder |
+| 2013 – 2015 | Bionix Division | Co-Founder |
 
 **[View my complete CV →](./cv.md)**
 
 ---
 
-## Let's Connect
+## Get in Touch
 
-**Hit me up if you're wrestling with:**
-- 🤖 AI agents & cost‑efficient LLMs
-- 🔐 Cybersecurity headaches & Automation
-- 🌐 Network beasts
+I'm usually happy to talk about AI agents, test automation, cybersecurity, or networking. Drop me a line:
 
-**Let's solve them together!**
-
-- [Contact me](./contact.md)
+- [Contact page](./contact.md)
 - [GitHub](https://github.com/prasro) | [LinkedIn](https://linkedin.com/in/rohith-kumar-prasanna-kumar)

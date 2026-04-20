@@ -15,9 +15,9 @@
 
 ## Professional Summary
 
-Award‑winning engineer who thrives where hardware meets software. **Intel Division Recognition Award** winner. 9+ years across cybersecurity, networking, and test engineering.
+Award-winning engineer who thrives where hardware meets software. **Intel Division Recognition Award** winner. 9+ years across cybersecurity, networking, and test engineering.
 
-Currently focused on **AI‑powered test automation** – building intelligent **Claude Agents** that autonomously maintain browser environments, optimize prompt usage to reduce API costs, and scale cloud testing frameworks.
+Currently focused on **AI-powered test automation** – building intelligent **Claude Agents** that autonomously maintain browser environments, optimize prompt usage to reduce API costs, and scale cloud testing frameworks.
 
 ---
 
@@ -32,7 +32,7 @@ Currently focused on **AI‑powered test automation** – building intelligent *
 ### 🤖 AI & Agentic Automation
 - **Claude Agents** – Built autonomous agents for browser update automation
 - **Claude Skills** – Created reusable skills for test environment setup, log analysis, and report generation
-- **Claude Hooks** – Implemented pre‑processing and post‑processing hooks to inject context, validate outputs, and enforce cost limits
+- **Claude Hooks** – Implemented pre-processing and post-processing hooks to inject context, validate outputs, and enforce cost limits
 - **AWS Bedrock** – Claude model integration (Haiku, Sonnet, Opus)
 - **Prompt Optimization** – Token usage reduction, cost per prompt analysis
 - **Cost Optimization** – Reduced API spend by ~20% through prompt caching, response streaming, and efficient hook design
@@ -58,14 +58,14 @@ Currently focused on **AI‑powered test automation** – building intelligent *
 
 - Built **Claude Agents** (AWS Bedrock) that autonomously update browser environments for OLS testing – eliminated manual intervention, saved ~10 engineer hours/month
 - Developed **Claude Skills** for reusable test automation (environment setup, log parsing, regression summary) – reduced agent code duplication by 60%
-- Implemented **Claude Hooks** for pre‑processing (inject test data, enforce prompt templates) and post‑processing (validate JSON outputs, cap token usage) – improved reliability and prevented runaway costs
-- Designed **cost‑aware prompt templates** – dynamically selects Claude model (Haiku for simple tasks, Sonnet for complex analysis) based on task complexity
+- Implemented **Claude Hooks** for pre-processing (inject test data, enforce prompt templates) and post-processing (validate JSON outputs, cap token usage) – improved reliability and prevented runaway costs
+- Designed **cost-aware prompt templates** – dynamically selects Claude model (Haiku for simple tasks, Sonnet for complex analysis) based on task complexity
 - Created **automated prompt evaluation pipeline** – tracks token usage, cost per test run, and output quality
 
 **Cloud Testing & Infrastructure:**
 
-- End‑to‑end testing of corporate security solutions (EDR/XDR, exchange, SharePoint)
-- Network modelling and anomaly detection (AI‑powered)
+- End-to-end testing of corporate security solutions (EDR/XDR, exchange, SharePoint)
+- Network modelling and anomaly detection (AI-powered)
 - Test automation on AWS (EC2, S3, CloudFront, Route53, Bedrock) and Azure
 - CI/CD maintenance (Jenkins) and Python test frameworks (Pytest, Selenium)
 
@@ -76,16 +76,16 @@ Currently focused on **AI‑powered test automation** – building intelligent *
 ### Intel Technologies Poland (01.2021 – 06.2022)
 *ASIC SoC Design Engineer – Programmable Network Switches*
 
-- Design verification of Ethernet switches on model, emulator (Veloce‑Strato+), and actual silicon
+- Design verification of Ethernet switches on model, emulator (Veloce-Strato+), and actual silicon
 - **Hitless Warm Reboot** (zero packet loss) on Tofino switching ASIC
 - Tested **P4C compiler** by writing complex P4 programs – parser stress, fuzzer, nested checksum, FIFO occupancy, and ambiguities test
-- Tested low‑level device drivers (PCIe, DMA), Forwarding Pipeline setup (registers, memories) for Unicast and Multicast, Packet Parser (Tcams), Port bring‑up (MAC), ASIC Model, Platform drivers, P4 programs, and GRPC‑based testing framework
-- Mentored cross‑geo development teams – played a key role in accelerating on‑boarding time for new hires
-- Products: Tofino1, Tofino2 (12.8 Tbps), Tofino3 (25.6 Tbps), Tofino5 (Flat‑rock)
+- Tested low-level device drivers (PCIe, DMA), Forwarding Pipeline setup (registers, memories) for Unicast and Multicast, Packet Parser (Tcams), Port bring-up (MAC), ASIC Model, Platform drivers, P4 programs, and GRPC-based testing framework
+- Mentored cross-geo development teams – played a key role in accelerating on-boarding time for new hires
+- Products: Tofino1, Tofino2 (12.8 Tbps), Tofino3 (25.6 Tbps), Tofino5 (Flat-rock)
 
 **Achievements:** Intel Division Recognition Award (PHV bug fix, bit flip) + 2x Intel Recognition Award
 
-**Environment:** Python (PTF), Git, C++, Linux, Scapy, IXIA, Wireshark, GDB, P4, P4C, gcc, Veloce‑Strato+, EPGM, JIRA
+**Environment:** Python (PTF), Git, C++, Linux, Scapy, IXIA, Wireshark, GDB, P4, P4C, gcc, Veloce-Strato+, EPGM, JIRA
 
 ---
 
@@ -123,9 +123,9 @@ Currently focused on **AI‑powered test automation** – building intelligent *
 ---
 
 ### Bionix Division, IIT Madras (08.2013 – 06.2015)
-*CEO & Co‑Founder*
+*CEO & Co-Founder*
 
-- Brain‑wave controlled wheelchair – awarded by Ministry of India
+- Brain-wave controlled wheelchair – awarded by Ministry of India
 - Gesture controlled robotic vehicles, EMG robotic arm, PCB design
 
 **Environment:** Embedded C, Arduino, MATLAB, Eagle
@@ -138,7 +138,7 @@ Currently focused on **AI‑powered test automation** – building intelligent *
 | :--- | :--- | :--- |
 | **Claude Agent for Browser Automation** | AWS Bedrock, Claude 3 Haiku, Python | 100% reduction in manual OLS maintenance, ~10 engineer hours/month saved |
 | **Prompt Cost Optimization Framework** | Claude API, Python, AWS Lambda | 20% reduction in API spend without quality loss |
-| **AI‑Driven Anomaly Detection** | Python, scikit‑learn | 15% reduction in critical production defects |
+| **AI-Driven Anomaly Detection** | Python, scikit-learn | 15% reduction in critical production defects |
 | **Claude Skills & Hooks Library** | Python, Claude API | Reusable skills and hooks cut agent development time by 20% |
 
 ---

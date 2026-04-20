@@ -9,12 +9,15 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.indexes
     - navigation.top
 
 nav:
   - Home: index.md
   - CV: cv.md
   - Contact: contact.md
+  - Blog:
+    - blog/index.md
 
 extra:
   social:
@@ -24,3 +27,18 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/rohith-kumar-prasanna-kumar
       name: LinkedIn
+
+plugins:
+  - blog:
+      blog_dir: blog
+      archive: true
+      categories: true
+  - search
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+
+extra_javascript:
+  - https://unpkg.com/mermaid@10/dist/mermaid.min.js
