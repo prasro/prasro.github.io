@@ -2,14 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://rohithkumar.dev/</loc>
-         <lastmod>2026-04-10</lastmod>
+         <lastmod>2026-04-20</lastmod>
     </url>
     <url>
          <loc>https://rohithkumar.dev/contact/</loc>
-         <lastmod>2026-04-10</lastmod>
+         <lastmod>2026-04-20</lastmod>
     </url>
     <url>
          <loc>https://rohithkumar.dev/cv/</loc>
-         <lastmod>2026-04-10</lastmod>
+         <lastmod>2026-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://rohithkumar.dev/blog/</loc>
+         <lastmod>2026-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://rohithkumar.dev/blog/2026/04/14/how-netflix-squeezes-a-250gb-movie-into-15gb-and-you-never-notice/</loc>
+         <lastmod>2026-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://rohithkumar.dev/blog/archive/2026/</loc>
+         <lastmod>2026-04-20</lastmod>
+    </url>
+    <url>
+         <loc>https://rohithkumar.dev/blog/category/video-engineering/</loc>
+         <lastmod>2026-04-20</lastmod>
     </url>
 </urlset>
